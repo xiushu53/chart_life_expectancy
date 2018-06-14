@@ -1,0 +1,1913 @@
+{
+    "1990": [{
+            "name": "USA",
+            "Male": 71.8,
+            "Female": 78.8,
+            "Total": 75.2146341463415
+        },
+        {
+            "name": "UK",
+            "Male": 73.1,
+            "Female": 78.8,
+            "Total": 75.88048780487809
+        },
+        {
+            "name": "Australia",
+            "Male": 73.98,
+            "Female": 80.16,
+            "Total": 76.9946341463415
+        },
+        {
+            "name": "Canada",
+            "Male": 74.26,
+            "Female": 80.65,
+            "Total": 77.3770731707317
+        },
+        {
+            "name": "France",
+            "Male": 72.6,
+            "Female": 80.8,
+            "Total": 76.6
+        },
+        {
+            "name": "Japan",
+            "Male": 75.91,
+            "Female": 81.91,
+            "Total": 78.8368292682927
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 74.6,
+            "Female": 80.3,
+            "Total": 77.38048780487809
+        },
+        {
+            "name": "Singapore",
+            "Male": 73.1,
+            "Female": 77.6,
+            "Total": 75.2951219512195
+        },
+        {
+            "name": "China",
+            "Male": 67.721,
+            "Female": 71.002,
+            "Total": 69.293
+        },
+        {
+            "name": "Malaysia",
+            "Male": 68.947,
+            "Female": 72.627,
+            "Total": 70.727
+        },
+        {
+            "name": "Thailand",
+            "Male": 67.175,
+            "Female": 73.439,
+            "Total": 70.25
+        },
+        {
+            "name": "India",
+            "Male": 57.608000000000004,
+            "Female": 58.261,
+            "Total": 57.915
+        },
+        {
+            "name": "Philippines",
+            "Male": 62.601000000000006,
+            "Female": 68.046,
+            "Total": 65.256
+        },
+        {
+            "name": "Vietnam",
+            "Male": 65.986,
+            "Female": 75.072,
+            "Total": 70.536
+        },
+        {
+            "name": "Indonesia",
+            "Male": 61.856,
+            "Female": 64.734,
+            "Total": 63.281000000000006
+        }
+    ],
+    "1991": [{
+            "name": "USA",
+            "Male": 72.0,
+            "Female": 78.9,
+            "Total": 75.3658536585366
+        },
+        {
+            "name": "UK",
+            "Male": 73.4,
+            "Female": 78.9,
+            "Total": 76.08292682926829
+        },
+        {
+            "name": "Australia",
+            "Male": 74.3,
+            "Female": 80.4,
+            "Total": 77.2756097560976
+        },
+        {
+            "name": "Canada",
+            "Male": 74.49,
+            "Female": 80.77,
+            "Total": 77.5534146341464
+        },
+        {
+            "name": "France",
+            "Male": 72.8,
+            "Female": 81.1,
+            "Total": 76.8487804878049
+        },
+        {
+            "name": "Japan",
+            "Male": 76.13,
+            "Female": 82.22,
+            "Total": 79.1007317073171
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 75.2,
+            "Female": 80.7,
+            "Total": 77.8829268292683
+        },
+        {
+            "name": "Singapore",
+            "Male": 73.5,
+            "Female": 77.9,
+            "Total": 75.64634146341459
+        },
+        {
+            "name": "China",
+            "Male": 67.836,
+            "Female": 71.192,
+            "Total": 69.437
+        },
+        {
+            "name": "Malaysia",
+            "Male": 69.153,
+            "Female": 72.884,
+            "Total": 70.955
+        },
+        {
+            "name": "Thailand",
+            "Male": 67.117,
+            "Female": 73.616,
+            "Total": 70.303
+        },
+        {
+            "name": "India",
+            "Male": 58.044,
+            "Female": 58.82,
+            "Total": 58.409
+        },
+        {
+            "name": "Philippines",
+            "Male": 62.775,
+            "Female": 68.286,
+            "Total": 65.461
+        },
+        {
+            "name": "Vietnam",
+            "Male": 66.23100000000001,
+            "Female": 75.40899999999999,
+            "Total": 70.82600000000001
+        },
+        {
+            "name": "Indonesia",
+            "Male": 62.188,
+            "Female": 65.116,
+            "Total": 63.638000000000005
+        }
+    ],
+    "1992": [{
+            "name": "USA",
+            "Male": 72.3,
+            "Female": 79.1,
+            "Total": 75.6170731707317
+        },
+        {
+            "name": "UK",
+            "Male": 73.8,
+            "Female": 79.2,
+            "Total": 76.4341463414634
+        },
+        {
+            "name": "Australia",
+            "Male": 74.5,
+            "Female": 80.4,
+            "Total": 77.37804878048779
+        },
+        {
+            "name": "Canada",
+            "Male": 74.75,
+            "Female": 80.02,
+            "Total": 77.3207317073171
+        },
+        {
+            "name": "France",
+            "Male": 73.1,
+            "Female": 81.3,
+            "Total": 77.1
+        },
+        {
+            "name": "Japan",
+            "Male": 76.11,
+            "Female": 82.35,
+            "Total": 79.1539024390244
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 74.8,
+            "Female": 80.7,
+            "Total": 77.6780487804878
+        },
+        {
+            "name": "Singapore",
+            "Male": 73.8,
+            "Female": 78.2,
+            "Total": 75.9463414634146
+        },
+        {
+            "name": "China",
+            "Male": 67.954,
+            "Female": 71.388,
+            "Total": 69.587
+        },
+        {
+            "name": "Malaysia",
+            "Male": 69.355,
+            "Female": 73.134,
+            "Total": 71.17699999999999
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.976,
+            "Female": 73.735,
+            "Total": 70.283
+        },
+        {
+            "name": "India",
+            "Male": 58.486000000000004,
+            "Female": 59.395,
+            "Total": 58.915
+        },
+        {
+            "name": "Philippines",
+            "Male": 62.94,
+            "Female": 68.518,
+            "Total": 65.657
+        },
+        {
+            "name": "Vietnam",
+            "Male": 66.47399999999999,
+            "Female": 75.743,
+            "Total": 71.113
+        },
+        {
+            "name": "Indonesia",
+            "Male": 62.525,
+            "Female": 65.49600000000001,
+            "Total": 63.998000000000005
+        }
+    ],
+    "1993": [{
+            "name": "USA",
+            "Male": 72.2,
+            "Female": 78.8,
+            "Total": 75.41951219512201
+        },
+        {
+            "name": "UK",
+            "Male": 73.8,
+            "Female": 79.1,
+            "Total": 76.3853658536585
+        },
+        {
+            "name": "Australia",
+            "Male": 75.0,
+            "Female": 80.9,
+            "Total": 77.87804878048779
+        },
+        {
+            "name": "Canada",
+            "Male": 74.69,
+            "Female": 80.83,
+            "Total": 77.6851219512195
+        },
+        {
+            "name": "France",
+            "Male": 73.3,
+            "Female": 81.5,
+            "Total": 77.3
+        },
+        {
+            "name": "Japan",
+            "Male": 76.24,
+            "Female": 82.5,
+            "Total": 79.29365853658541
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 75.3,
+            "Female": 80.9,
+            "Total": 78.0317073170732
+        },
+        {
+            "name": "Singapore",
+            "Male": 73.9,
+            "Female": 78.3,
+            "Total": 76.04634146341459
+        },
+        {
+            "name": "China",
+            "Male": 68.087,
+            "Female": 71.595,
+            "Total": 69.75
+        },
+        {
+            "name": "Malaysia",
+            "Male": 69.551,
+            "Female": 73.37899999999999,
+            "Total": 71.39399999999999
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.815,
+            "Female": 73.831,
+            "Total": 70.241
+        },
+        {
+            "name": "India",
+            "Male": 58.928000000000004,
+            "Female": 59.971000000000004,
+            "Total": 59.42100000000001
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.107,
+            "Female": 68.751,
+            "Total": 65.85600000000001
+        },
+        {
+            "name": "Vietnam",
+            "Male": 66.719,
+            "Female": 76.074,
+            "Total": 71.399
+        },
+        {
+            "name": "Indonesia",
+            "Male": 62.86,
+            "Female": 65.87,
+            "Total": 64.35300000000001
+        }
+    ],
+    "1994": [{
+            "name": "USA",
+            "Male": 72.4,
+            "Female": 79.0,
+            "Total": 75.619512195122
+        },
+        {
+            "name": "UK",
+            "Male": 74.3,
+            "Female": 79.6,
+            "Total": 76.8853658536585
+        },
+        {
+            "name": "Australia",
+            "Male": 75.0,
+            "Female": 80.9,
+            "Total": 77.87804878048779
+        },
+        {
+            "name": "Canada",
+            "Male": 74.94,
+            "Female": 80.93,
+            "Total": 77.8619512195122
+        },
+        {
+            "name": "France",
+            "Male": 73.6,
+            "Female": 81.9,
+            "Total": 77.64878048780491
+        },
+        {
+            "name": "Japan",
+            "Male": 76.57,
+            "Female": 82.96,
+            "Total": 79.68707317073171
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 75.7,
+            "Female": 81.5,
+            "Total": 78.5292682926829
+        },
+        {
+            "name": "Singapore",
+            "Male": 74.1,
+            "Female": 78.4,
+            "Total": 76.1975609756098
+        },
+        {
+            "name": "China",
+            "Male": 68.245,
+            "Female": 71.816,
+            "Total": 69.935
+        },
+        {
+            "name": "Malaysia",
+            "Male": 69.741,
+            "Female": 73.618,
+            "Total": 71.605
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.668,
+            "Female": 73.923,
+            "Total": 70.204
+        },
+        {
+            "name": "India",
+            "Male": 59.36600000000001,
+            "Female": 60.538000000000004,
+            "Total": 59.92100000000001
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.278,
+            "Female": 68.99,
+            "Total": 66.059
+        },
+        {
+            "name": "Vietnam",
+            "Male": 66.968,
+            "Female": 76.399,
+            "Total": 71.685
+        },
+        {
+            "name": "Indonesia",
+            "Male": 63.188,
+            "Female": 66.234,
+            "Total": 64.70100000000001
+        }
+    ],
+    "1995": [{
+            "name": "USA",
+            "Male": 72.5,
+            "Female": 78.9,
+            "Total": 75.62195121951221
+        },
+        {
+            "name": "UK",
+            "Male": 74.3,
+            "Female": 79.5,
+            "Total": 76.83658536585371
+        },
+        {
+            "name": "Australia",
+            "Male": 75.0,
+            "Female": 80.8,
+            "Total": 77.82926829268291
+        },
+        {
+            "name": "Canada",
+            "Male": 75.08,
+            "Female": 81.02,
+            "Total": 77.9775609756098
+        },
+        {
+            "name": "France",
+            "Male": 73.8,
+            "Female": 81.9,
+            "Total": 77.75121951219509
+        },
+        {
+            "name": "Japan",
+            "Male": 76.39,
+            "Female": 82.84,
+            "Total": 79.5363414634147
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 76.0,
+            "Female": 81.5,
+            "Total": 78.6829268292683
+        },
+        {
+            "name": "Singapore",
+            "Male": 74.1,
+            "Female": 78.6,
+            "Total": 76.2951219512195
+        },
+        {
+            "name": "China",
+            "Male": 68.449,
+            "Female": 72.06,
+            "Total": 70.156
+        },
+        {
+            "name": "Malaysia",
+            "Male": 69.929,
+            "Female": 73.85300000000001,
+            "Total": 71.813
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.565,
+            "Female": 74.018,
+            "Total": 70.192
+        },
+        {
+            "name": "India",
+            "Male": 59.795,
+            "Female": 61.086000000000006,
+            "Total": 60.408
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.452,
+            "Female": 69.234,
+            "Total": 66.265
+        },
+        {
+            "name": "Vietnam",
+            "Male": 67.221,
+            "Female": 76.715,
+            "Total": 71.968
+        },
+        {
+            "name": "Indonesia",
+            "Male": 63.497,
+            "Female": 66.582,
+            "Total": 65.032
+        }
+    ],
+    "1996": [{
+            "name": "USA",
+            "Male": 73.1,
+            "Female": 79.1,
+            "Total": 76.0268292682927
+        },
+        {
+            "name": "UK",
+            "Male": 74.6,
+            "Female": 79.7,
+            "Total": 77.0878048780488
+        },
+        {
+            "name": "Australia",
+            "Male": 75.2,
+            "Female": 81.1,
+            "Total": 78.07804878048779
+        },
+        {
+            "name": "Canada",
+            "Male": 75.45,
+            "Female": 81.15,
+            "Total": 78.2304878048781
+        },
+        {
+            "name": "France",
+            "Male": 74.1,
+            "Female": 82.0,
+            "Total": 77.95365853658541
+        },
+        {
+            "name": "Japan",
+            "Male": 77.01,
+            "Female": 83.55,
+            "Total": 80.200243902439
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 76.7,
+            "Female": 82.7,
+            "Total": 79.62682926829271
+        },
+        {
+            "name": "Singapore",
+            "Male": 74.4,
+            "Female": 78.9,
+            "Total": 76.5951219512195
+        },
+        {
+            "name": "China",
+            "Male": 68.717,
+            "Female": 72.334,
+            "Total": 70.42699999999999
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.115,
+            "Female": 74.084,
+            "Total": 72.01899999999999
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.523,
+            "Female": 74.118,
+            "Total": 70.214
+        },
+        {
+            "name": "India",
+            "Male": 60.211999999999996,
+            "Female": 61.608000000000004,
+            "Total": 60.876999999999995
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.623999999999995,
+            "Female": 69.47800000000001,
+            "Total": 66.471
+        },
+        {
+            "name": "Vietnam",
+            "Male": 67.47399999999999,
+            "Female": 77.02199999999999,
+            "Total": 72.248
+        },
+        {
+            "name": "Indonesia",
+            "Male": 63.778999999999996,
+            "Female": 66.90899999999999,
+            "Total": 65.339
+        }
+    ],
+    "1997": [{
+            "name": "USA",
+            "Male": 73.6,
+            "Female": 79.4,
+            "Total": 76.4292682926829
+        },
+        {
+            "name": "UK",
+            "Male": 74.65,
+            "Female": 79.9,
+            "Total": 77.2109756097561
+        },
+        {
+            "name": "Australia",
+            "Male": 75.7,
+            "Female": 81.4,
+            "Total": 78.4804878048781
+        },
+        {
+            "name": "Canada",
+            "Male": 75.7,
+            "Female": 81.4,
+            "Total": 78.4804878048781
+        },
+        {
+            "name": "France",
+            "Male": 74.5,
+            "Female": 82.3,
+            "Total": 78.3048780487805
+        },
+        {
+            "name": "Japan",
+            "Male": 77.19,
+            "Female": 83.82,
+            "Total": 80.4241463414634
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 77.2,
+            "Female": 83.2,
+            "Total": 80.12682926829271
+        },
+        {
+            "name": "Singapore",
+            "Male": 74.8,
+            "Female": 79.1,
+            "Total": 76.89756097560979
+        },
+        {
+            "name": "China",
+            "Male": 69.051,
+            "Female": 72.637,
+            "Total": 70.747
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.29899999999999,
+            "Female": 74.311,
+            "Total": 72.222
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.538,
+            "Female": 74.214,
+            "Total": 70.266
+        },
+        {
+            "name": "India",
+            "Male": 60.619,
+            "Female": 62.103,
+            "Total": 61.327
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.788000000000004,
+            "Female": 69.714,
+            "Total": 66.668
+        },
+        {
+            "name": "Vietnam",
+            "Male": 67.72399999999999,
+            "Female": 77.317,
+            "Total": 72.51899999999999
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.029,
+            "Female": 67.21300000000001,
+            "Total": 65.617
+        }
+    ],
+    "1998": [{
+            "name": "USA",
+            "Male": 73.8,
+            "Female": 79.5,
+            "Total": 76.58048780487809
+        },
+        {
+            "name": "UK",
+            "Male": 74.8,
+            "Female": 79.7,
+            "Total": 77.19024390243901
+        },
+        {
+            "name": "Australia",
+            "Male": 75.9,
+            "Female": 81.5,
+            "Total": 78.63170731707321
+        },
+        {
+            "name": "Canada",
+            "Male": 75.96,
+            "Female": 81.5,
+            "Total": 78.6624390243902
+        },
+        {
+            "name": "France",
+            "Male": 74.8,
+            "Female": 82.6,
+            "Total": 78.60487804878049
+        },
+        {
+            "name": "Japan",
+            "Male": 77.16,
+            "Female": 84.01,
+            "Total": 80.5014634146342
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 77.4,
+            "Female": 83.0,
+            "Total": 80.13170731707321
+        },
+        {
+            "name": "Singapore",
+            "Male": 75.3,
+            "Female": 79.4,
+            "Total": 77.3
+        },
+        {
+            "name": "China",
+            "Male": 69.447,
+            "Female": 72.967,
+            "Total": 71.115
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.48100000000001,
+            "Female": 74.533,
+            "Total": 72.422
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.608,
+            "Female": 74.305,
+            "Total": 70.346
+        },
+        {
+            "name": "India",
+            "Male": 61.016000000000005,
+            "Female": 62.571999999999996,
+            "Total": 61.761
+        },
+        {
+            "name": "Philippines",
+            "Male": 63.93600000000001,
+            "Female": 69.937,
+            "Total": 66.851
+        },
+        {
+            "name": "Vietnam",
+            "Male": 67.965,
+            "Female": 77.59899999999999,
+            "Total": 72.781
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.245,
+            "Female": 67.493,
+            "Total": 65.866
+        }
+    ],
+    "1999": [{
+            "name": "USA",
+            "Male": 73.9,
+            "Female": 79.4,
+            "Total": 76.58292682926829
+        },
+        {
+            "name": "UK",
+            "Male": 75.0,
+            "Female": 79.9,
+            "Total": 77.390243902439
+        },
+        {
+            "name": "Australia",
+            "Male": 76.2,
+            "Female": 81.8,
+            "Total": 78.9317073170732
+        },
+        {
+            "name": "Canada",
+            "Male": 76.2,
+            "Female": 81.7,
+            "Total": 78.8829268292683
+        },
+        {
+            "name": "France",
+            "Male": 75.0,
+            "Female": 82.7,
+            "Total": 78.75609756097559
+        },
+        {
+            "name": "Japan",
+            "Male": 77.4,
+            "Female": 83.9,
+            "Total": 80.5707317073171
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 77.7,
+            "Female": 83.2,
+            "Total": 80.3829268292683
+        },
+        {
+            "name": "Singapore",
+            "Male": 75.6,
+            "Female": 79.6,
+            "Total": 77.55121951219509
+        },
+        {
+            "name": "China",
+            "Male": 69.896,
+            "Female": 73.32,
+            "Total": 71.521
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.65899999999999,
+            "Female": 74.749,
+            "Total": 72.616
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.738,
+            "Female": 74.4,
+            "Total": 70.462
+        },
+        {
+            "name": "India",
+            "Male": 61.405,
+            "Female": 63.016000000000005,
+            "Total": 62.178999999999995
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.07,
+            "Female": 70.14399999999999,
+            "Total": 67.01899999999999
+        },
+        {
+            "name": "Vietnam",
+            "Male": 68.195,
+            "Female": 77.868,
+            "Total": 73.03
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.428,
+            "Female": 67.752,
+            "Total": 66.087
+        }
+    ],
+    "2000": [{
+            "name": "USA",
+            "Male": 74.1,
+            "Female": 79.3,
+            "Total": 76.6365853658537
+        },
+        {
+            "name": "UK",
+            "Male": 75.4,
+            "Female": 80.2,
+            "Total": 77.7414634146342
+        },
+        {
+            "name": "Australia",
+            "Male": 76.6,
+            "Female": 82.0,
+            "Total": 79.2341463414634
+        },
+        {
+            "name": "Canada",
+            "Male": 76.7,
+            "Female": 81.9,
+            "Total": 79.2365853658537
+        },
+        {
+            "name": "France",
+            "Male": 75.3,
+            "Female": 83.0,
+            "Total": 79.05609756097559
+        },
+        {
+            "name": "Japan",
+            "Male": 77.72,
+            "Female": 84.6,
+            "Total": 81.07609756097558
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 78.0,
+            "Female": 83.9,
+            "Total": 80.87804878048779
+        },
+        {
+            "name": "Singapore",
+            "Male": 76.0,
+            "Female": 80.0,
+            "Total": 77.9512195121951
+        },
+        {
+            "name": "China",
+            "Male": 70.37899999999999,
+            "Female": 73.693,
+            "Total": 71.955
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.825,
+            "Female": 74.955,
+            "Total": 72.8
+        },
+        {
+            "name": "Thailand",
+            "Male": 66.937,
+            "Female": 74.513,
+            "Total": 70.624
+        },
+        {
+            "name": "India",
+            "Male": 61.788999999999994,
+            "Female": 63.438,
+            "Total": 62.582
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.187,
+            "Female": 70.336,
+            "Total": 67.17
+        },
+        {
+            "name": "Vietnam",
+            "Male": 68.41199999999999,
+            "Female": 78.122,
+            "Total": 73.265
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.582,
+            "Female": 67.995,
+            "Total": 66.285
+        }
+    ],
+    "2001": [{
+            "name": "USA",
+            "Male": 74.3,
+            "Female": 79.5,
+            "Total": 76.83658536585371
+        },
+        {
+            "name": "UK",
+            "Male": 75.7,
+            "Female": 80.4,
+            "Total": 77.9926829268293
+        },
+        {
+            "name": "Australia",
+            "Male": 77.0,
+            "Female": 82.4,
+            "Total": 79.6341463414634
+        },
+        {
+            "name": "Canada",
+            "Male": 77.0,
+            "Female": 82.1,
+            "Total": 79.4878048780488
+        },
+        {
+            "name": "France",
+            "Male": 75.5,
+            "Female": 83.0,
+            "Total": 79.15853658536591
+        },
+        {
+            "name": "Japan",
+            "Male": 78.1,
+            "Female": 84.9,
+            "Total": 81.41707317073171
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 78.4,
+            "Female": 84.6,
+            "Total": 81.42439024390251
+        },
+        {
+            "name": "Singapore",
+            "Male": 76.3,
+            "Female": 80.3,
+            "Total": 78.25121951219509
+        },
+        {
+            "name": "China",
+            "Male": 70.873,
+            "Female": 74.079,
+            "Total": 72.40100000000001
+        },
+        {
+            "name": "Malaysia",
+            "Male": 70.973,
+            "Female": 75.14699999999999,
+            "Total": 72.96600000000001
+        },
+        {
+            "name": "Thailand",
+            "Male": 67.211,
+            "Female": 74.657,
+            "Total": 70.84100000000001
+        },
+        {
+            "name": "India",
+            "Male": 62.17100000000001,
+            "Female": 63.841,
+            "Total": 62.977
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.29,
+            "Female": 70.513,
+            "Total": 67.308
+        },
+        {
+            "name": "Vietnam",
+            "Male": 68.613,
+            "Female": 78.36399999999999,
+            "Total": 73.487
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.715,
+            "Female": 68.23100000000001,
+            "Total": 66.467
+        }
+    ],
+    "2002": [{
+            "name": "USA",
+            "Male": 74.4,
+            "Female": 79.6,
+            "Total": 76.9365853658537
+        },
+        {
+            "name": "UK",
+            "Male": 75.9,
+            "Female": 80.5,
+            "Total": 78.14390243902442
+        },
+        {
+            "name": "Australia",
+            "Male": 77.4,
+            "Female": 82.6,
+            "Total": 79.9365853658537
+        },
+        {
+            "name": "Canada",
+            "Male": 77.2,
+            "Female": 82.1,
+            "Total": 79.590243902439
+        },
+        {
+            "name": "France",
+            "Male": 75.7,
+            "Female": 83.0,
+            "Total": 79.2609756097561
+        },
+        {
+            "name": "Japan",
+            "Male": 78.1,
+            "Female": 85.2,
+            "Total": 81.5634146341463
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 78.5,
+            "Female": 84.5,
+            "Total": 81.4268292682927
+        },
+        {
+            "name": "Singapore",
+            "Male": 76.6,
+            "Female": 80.6,
+            "Total": 78.55121951219509
+        },
+        {
+            "name": "China",
+            "Male": 71.35300000000001,
+            "Female": 74.469,
+            "Total": 72.84
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.098,
+            "Female": 75.324,
+            "Total": 73.113
+        },
+        {
+            "name": "Thailand",
+            "Male": 67.548,
+            "Female": 74.84,
+            "Total": 71.11
+        },
+        {
+            "name": "India",
+            "Male": 62.556000000000004,
+            "Female": 64.234,
+            "Total": 63.368
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.382,
+            "Female": 70.679,
+            "Total": 67.434
+        },
+        {
+            "name": "Vietnam",
+            "Male": 68.79899999999999,
+            "Female": 78.593,
+            "Total": 73.695
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.83800000000001,
+            "Female": 68.467,
+            "Total": 66.643
+        }
+    ],
+    "2003": [{
+            "name": "USA",
+            "Male": 74.5,
+            "Female": 79.7,
+            "Total": 77.0365853658537
+        },
+        {
+            "name": "UK",
+            "Male": 76.3,
+            "Female": 80.7,
+            "Total": 78.4463414634146
+        },
+        {
+            "name": "Australia",
+            "Male": 77.8,
+            "Female": 82.8,
+            "Total": 80.2390243902439
+        },
+        {
+            "name": "Canada",
+            "Male": 77.4,
+            "Female": 82.4,
+            "Total": 79.8390243902439
+        },
+        {
+            "name": "France",
+            "Male": 75.7,
+            "Female": 82.7,
+            "Total": 79.1146341463415
+        },
+        {
+            "name": "Japan",
+            "Male": 78.36,
+            "Female": 85.33,
+            "Total": 81.76
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 78.5,
+            "Female": 84.4,
+            "Total": 81.37804878048779
+        },
+        {
+            "name": "Singapore",
+            "Male": 76.6,
+            "Female": 81.6,
+            "Total": 79.0390243902439
+        },
+        {
+            "name": "China",
+            "Male": 71.797,
+            "Female": 74.85300000000001,
+            "Total": 73.257
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.202,
+            "Female": 75.487,
+            "Total": 73.242
+        },
+        {
+            "name": "Thailand",
+            "Male": 67.931,
+            "Female": 75.067,
+            "Total": 71.42399999999999
+        },
+        {
+            "name": "India",
+            "Male": 62.943999999999996,
+            "Female": 64.627,
+            "Total": 63.75899999999999
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.467,
+            "Female": 70.836,
+            "Total": 67.555
+        },
+        {
+            "name": "Vietnam",
+            "Male": 68.97399999999999,
+            "Female": 78.811,
+            "Total": 73.893
+        },
+        {
+            "name": "Indonesia",
+            "Male": 64.961,
+            "Female": 68.708,
+            "Total": 66.82
+        }
+    ],
+    "2004": [{
+            "name": "USA",
+            "Male": 75.0,
+            "Female": 80.1,
+            "Total": 77.4878048780488
+        },
+        {
+            "name": "UK",
+            "Male": 76.6,
+            "Female": 81.0,
+            "Total": 78.7463414634146
+        },
+        {
+            "name": "Australia",
+            "Male": 78.1,
+            "Female": 83.0,
+            "Total": 80.490243902439
+        },
+        {
+            "name": "Canada",
+            "Male": 77.8,
+            "Female": 82.6,
+            "Total": 80.14146341463409
+        },
+        {
+            "name": "France",
+            "Male": 76.7,
+            "Female": 83.8,
+            "Total": 80.16341463414629
+        },
+        {
+            "name": "Japan",
+            "Male": 78.64,
+            "Female": 85.59,
+            "Total": 82.030243902439
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 79.0,
+            "Female": 84.8,
+            "Total": 81.82926829268291
+        },
+        {
+            "name": "Singapore",
+            "Male": 77.1,
+            "Female": 82.0,
+            "Total": 79.490243902439
+        },
+        {
+            "name": "China",
+            "Male": 72.195,
+            "Female": 75.223,
+            "Total": 73.642
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.289,
+            "Female": 75.637,
+            "Total": 73.35600000000001
+        },
+        {
+            "name": "Thailand",
+            "Male": 68.345,
+            "Female": 75.339,
+            "Total": 71.775
+        },
+        {
+            "name": "India",
+            "Male": 63.333999999999996,
+            "Female": 65.024,
+            "Total": 64.154
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.55,
+            "Female": 70.986,
+            "Total": 67.67
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.14,
+            "Female": 79.01899999999999,
+            "Total": 74.082
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.09,
+            "Female": 68.954,
+            "Total": 67.002
+        }
+    ],
+    "2005": [{
+            "name": "USA",
+            "Male": 75.0,
+            "Female": 80.1,
+            "Total": 77.4878048780488
+        },
+        {
+            "name": "UK",
+            "Male": 77.0,
+            "Female": 81.2,
+            "Total": 79.0487804878049
+        },
+        {
+            "name": "Australia",
+            "Male": 78.5,
+            "Female": 83.3,
+            "Total": 80.84146341463409
+        },
+        {
+            "name": "Canada",
+            "Male": 78.0,
+            "Female": 82.7,
+            "Total": 80.2926829268293
+        },
+        {
+            "name": "France",
+            "Male": 76.7,
+            "Female": 83.8,
+            "Total": 80.16341463414629
+        },
+        {
+            "name": "Japan",
+            "Male": 78.53,
+            "Female": 85.49,
+            "Total": 81.9251219512195
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 78.8,
+            "Female": 84.6,
+            "Total": 81.62926829268291
+        },
+        {
+            "name": "Singapore",
+            "Male": 77.6,
+            "Female": 82.5,
+            "Total": 79.990243902439
+        },
+        {
+            "name": "China",
+            "Male": 72.54,
+            "Female": 75.569,
+            "Total": 73.987
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.37,
+            "Female": 75.783,
+            "Total": 73.46300000000001
+        },
+        {
+            "name": "Thailand",
+            "Male": 68.767,
+            "Female": 75.654,
+            "Total": 72.149
+        },
+        {
+            "name": "India",
+            "Male": 63.724,
+            "Female": 65.438,
+            "Total": 64.556
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.632,
+            "Female": 71.131,
+            "Total": 67.783
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.30199999999999,
+            "Female": 79.214,
+            "Total": 74.263
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.23100000000001,
+            "Female": 69.203,
+            "Total": 67.191
+        }
+    ],
+    "2006": [{
+            "name": "USA",
+            "Male": 75.2,
+            "Female": 80.3,
+            "Total": 77.6878048780488
+        },
+        {
+            "name": "UK",
+            "Male": 77.2,
+            "Female": 81.4,
+            "Total": 79.24878048780491
+        },
+        {
+            "name": "Australia",
+            "Male": 78.7,
+            "Female": 83.5,
+            "Total": 81.0414634146342
+        },
+        {
+            "name": "Canada",
+            "Male": 78.0,
+            "Female": 82.7,
+            "Total": 80.2926829268293
+        },
+        {
+            "name": "France",
+            "Male": 77.3,
+            "Female": 84.5,
+            "Total": 80.8121951219512
+        },
+        {
+            "name": "Japan",
+            "Male": 79.0,
+            "Female": 85.81,
+            "Total": 82.3219512195122
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 79.4,
+            "Female": 85.5,
+            "Total": 82.37560975609759
+        },
+        {
+            "name": "Singapore",
+            "Male": 77.8,
+            "Female": 82.6,
+            "Total": 80.14146341463409
+        },
+        {
+            "name": "China",
+            "Male": 72.836,
+            "Female": 75.884,
+            "Total": 74.291
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.46,
+            "Female": 75.93,
+            "Total": 73.577
+        },
+        {
+            "name": "Thailand",
+            "Male": 69.17399999999999,
+            "Female": 76.01,
+            "Total": 72.53399999999999
+        },
+        {
+            "name": "India",
+            "Male": 64.107,
+            "Female": 65.878,
+            "Total": 64.96600000000001
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.715,
+            "Female": 71.27,
+            "Total": 67.892
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.464,
+            "Female": 79.395,
+            "Total": 74.438
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.388,
+            "Female": 69.44800000000001,
+            "Total": 67.38600000000001
+        }
+    ],
+    "2007": [{
+            "name": "USA",
+            "Male": 75.5,
+            "Female": 80.6,
+            "Total": 77.9878048780488
+        },
+        {
+            "name": "UK",
+            "Male": 77.4,
+            "Female": 81.6,
+            "Total": 79.44878048780491
+        },
+        {
+            "name": "Australia",
+            "Male": 79.0,
+            "Female": 83.7,
+            "Total": 81.2926829268293
+        },
+        {
+            "name": "Canada",
+            "Male": 78.3,
+            "Female": 82.9,
+            "Total": 80.54390243902441
+        },
+        {
+            "name": "France",
+            "Male": 77.6,
+            "Female": 84.8,
+            "Total": 81.1121951219512
+        },
+        {
+            "name": "Japan",
+            "Male": 79.19,
+            "Female": 85.99,
+            "Total": 82.5070731707317
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 79.4,
+            "Female": 85.4,
+            "Total": 82.3268292682927
+        },
+        {
+            "name": "Singapore",
+            "Male": 78.1,
+            "Female": 82.9,
+            "Total": 80.4414634146342
+        },
+        {
+            "name": "China",
+            "Male": 73.097,
+            "Female": 76.166,
+            "Total": 74.562
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.57,
+            "Female": 76.085,
+            "Total": 73.704
+        },
+        {
+            "name": "Thailand",
+            "Male": 69.54899999999999,
+            "Female": 76.393,
+            "Total": 72.915
+        },
+        {
+            "name": "India",
+            "Male": 64.48,
+            "Female": 66.345,
+            "Total": 65.383
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.80199999999999,
+            "Female": 71.404,
+            "Total": 68.0
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.63,
+            "Female": 79.562,
+            "Total": 74.609
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.559,
+            "Female": 69.681,
+            "Total": 67.581
+        }
+    ],
+    "2008": [{
+            "name": "USA",
+            "Male": 75.6,
+            "Female": 80.6,
+            "Total": 78.0390243902439
+        },
+        {
+            "name": "UK",
+            "Male": 77.6,
+            "Female": 81.7,
+            "Total": 79.6
+        },
+        {
+            "name": "Australia",
+            "Male": 79.2,
+            "Female": 83.7,
+            "Total": 81.39512195121951
+        },
+        {
+            "name": "Canada",
+            "Male": 78.5,
+            "Female": 83.0,
+            "Total": 80.6951219512195
+        },
+        {
+            "name": "France",
+            "Male": 77.8,
+            "Female": 84.8,
+            "Total": 81.2146341463415
+        },
+        {
+            "name": "Japan",
+            "Male": 79.29,
+            "Female": 86.05,
+            "Total": 82.5875609756098
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 79.4,
+            "Female": 85.5,
+            "Total": 82.37560975609759
+        },
+        {
+            "name": "Singapore",
+            "Male": 78.4,
+            "Female": 83.3,
+            "Total": 80.790243902439
+        },
+        {
+            "name": "China",
+            "Male": 73.337,
+            "Female": 76.418,
+            "Total": 74.808
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.707,
+            "Female": 76.253,
+            "Total": 73.852
+        },
+        {
+            "name": "Thailand",
+            "Male": 69.881,
+            "Female": 76.788,
+            "Total": 73.279
+        },
+        {
+            "name": "India",
+            "Male": 64.837,
+            "Female": 66.833,
+            "Total": 65.80199999999999
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.892,
+            "Female": 71.53399999999999,
+            "Total": 68.105
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.805,
+            "Female": 79.714,
+            "Total": 74.777
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.74,
+            "Female": 69.898,
+            "Total": 67.775
+        }
+    ],
+    "2009": [{
+            "name": "USA",
+            "Male": 76.0,
+            "Female": 80.9,
+            "Total": 78.390243902439
+        },
+        {
+            "name": "UK",
+            "Male": 78.1,
+            "Female": 82.1,
+            "Total": 80.05121951219509
+        },
+        {
+            "name": "Australia",
+            "Male": 79.3,
+            "Female": 83.9,
+            "Total": 81.54390243902441
+        },
+        {
+            "name": "Canada",
+            "Male": 78.8,
+            "Female": 83.2,
+            "Total": 80.9463414634146
+        },
+        {
+            "name": "France",
+            "Male": 78.0,
+            "Female": 85.0,
+            "Total": 81.4146341463415
+        },
+        {
+            "name": "Japan",
+            "Male": 79.59,
+            "Female": 86.44,
+            "Total": 82.9314634146342
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 79.8,
+            "Female": 85.9,
+            "Total": 82.7756097560976
+        },
+        {
+            "name": "Singapore",
+            "Male": 78.9,
+            "Female": 83.7,
+            "Total": 81.2414634146342
+        },
+        {
+            "name": "China",
+            "Male": 73.561,
+            "Female": 76.641,
+            "Total": 75.032
+        },
+        {
+            "name": "Malaysia",
+            "Male": 71.873,
+            "Female": 76.434,
+            "Total": 74.02199999999999
+        },
+        {
+            "name": "Thailand",
+            "Male": 70.164,
+            "Female": 77.182,
+            "Total": 73.617
+        },
+        {
+            "name": "India",
+            "Male": 65.17699999999999,
+            "Female": 67.336,
+            "Total": 66.219
+        },
+        {
+            "name": "Philippines",
+            "Male": 64.987,
+            "Female": 71.66199999999999,
+            "Total": 68.211
+        },
+        {
+            "name": "Vietnam",
+            "Male": 69.991,
+            "Female": 79.85600000000001,
+            "Total": 74.946
+        },
+        {
+            "name": "Indonesia",
+            "Male": 65.929,
+            "Female": 70.09899999999999,
+            "Total": 67.964
+        }
+    ],
+    "2010": [{
+            "name": "USA",
+            "Male": 76.2,
+            "Female": 81.0,
+            "Total": 78.5414634146342
+        },
+        {
+            "name": "UK",
+            "Male": 78.5,
+            "Female": 82.4,
+            "Total": 80.4024390243902
+        },
+        {
+            "name": "Australia",
+            "Male": 79.5,
+            "Female": 84.0,
+            "Total": 81.6951219512195
+        },
+        {
+            "name": "Canada",
+            "Male": 79.1,
+            "Female": 83.4,
+            "Total": 81.1975609756098
+        },
+        {
+            "name": "France",
+            "Male": 78.2,
+            "Female": 85.3,
+            "Total": 81.66341463414629
+        },
+        {
+            "name": "Japan",
+            "Male": 79.55,
+            "Female": 86.3,
+            "Total": 82.8426829268293
+        },
+        {
+            "name": "Hong Kong",
+            "Male": 80.1,
+            "Female": 86.0,
+            "Total": 82.9780487804878
+        },
+        {
+            "name": "Singapore",
+            "Male": 79.2,
+            "Female": 84.0,
+            "Total": 81.5414634146342
+        },
+        {
+            "name": "China",
+            "Male": 73.77,
+            "Female": 76.837,
+            "Total": 75.236
+        },
+        {
+            "name": "Malaysia",
+            "Male": 72.061,
+            "Female": 76.624,
+            "Total": 74.21
+        },
+        {
+            "name": "Thailand",
+            "Male": 70.402,
+            "Female": 77.561,
+            "Total": 73.923
+        },
+        {
+            "name": "India",
+            "Male": 65.497,
+            "Female": 67.84,
+            "Total": 66.625
+        },
+        {
+            "name": "Philippines",
+            "Male": 65.089,
+            "Female": 71.791,
+            "Total": 68.32
+        },
+        {
+            "name": "Vietnam",
+            "Male": 70.188,
+            "Female": 79.992,
+            "Total": 75.117
+        },
+        {
+            "name": "Indonesia",
+            "Male": 66.122,
+            "Female": 70.285,
+            "Total": 68.15
+        }
+    ]
+}

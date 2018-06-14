@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Improve Life Expentancy Chart</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/d3-simple-slider@0.2.1/build/d3-simple-slider.js"></script>
+    <style>
+        h2 {
+            margin-bottom: 0;
+        }
+        
+        #value2 {
+            margin-top: 0;
+            margin-left: 20px;
+        }
+        
+        .grid {
+            opacity: .2;
+        }
+        
+        #From_data {
+            display: inline-block;
+            position: absolute;
+            left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Life expectancy by country income</h2>
+    <script src="./le_settings.js"></script>
+    <small id="From_data">Data: <a href="https://data.worldbank.org/">Wold Bank Open Data</a></small>
+    <div class="row align-items-center">
+        <div class="col-sm-2">
+            <p id="value2"></p>
+        </div>
+        <div class="col-sm">
+            <div id="slider2"></div>
+        </div>
+    </div>
+</body>
+
+</html>
