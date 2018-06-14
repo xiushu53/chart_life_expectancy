@@ -93,7 +93,7 @@ d3.json("lifeExpectancy.json").then(function(le_data) {
         .attr("fill", "#777")
         .attr("transform", "rotate(-90)");
 
-    draw_data('1990');
+    draw_data('2010');
 
     function draw_data(y_val) {
         var year = y_val;
